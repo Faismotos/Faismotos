@@ -27,19 +27,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GLMIRA&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLMIRA&layout=compact&hide_border=true&title_color=FF0000&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-
-## 📈 Estatísticas de Atividade
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GLMIRA&theme=dark&hide_border=true&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000)
-
-
  ## 🚀 Sobre mim
 
 Sou estudante de Engenharia da Computação na UTFPR e tenho uma grande paixão por tecnologia, principalmente pela forma como os sistemas funcionam nos bastidores. Sempre fui curioso em entender o que está por trás das aplicações, explorando desde segurança até inteligência artificial.
