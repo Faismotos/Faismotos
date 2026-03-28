@@ -1,8 +1,9 @@
 #  Tiago Facimoto
 
 ## Sobre mim
-🎯 **Foco atual:** Desemvolvimento FullStack
-💼 **Trabalhando em:**  Estudos
+- 🎯 **Foco atual:** Desemvolvimento FullStack
+-
+-  💼 **Trabalhando em:**  Estudos
 
 
 ## 🚀 Minhas Tecnologias
