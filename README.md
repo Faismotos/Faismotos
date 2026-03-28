@@ -2,8 +2,8 @@
 
 ## Sobre mim
 - 🎯 **Foco atual:** Desemvolvimento FullStack
--
--  💼 **Trabalhando em:**  Estudos
+
+- 💼 **Trabalhando em:**  Estudos
 
 
 ## 🚀 Minhas Tecnologias
@@ -12,6 +12,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PhP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 ### Backend
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -28,7 +29,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
- ## 🚀 Sobre mim
+ ## ⚡ Curiosidades 
 
 Sou estudante de Engenharia da Computação na UTFPR e tenho uma grande paixão por tecnologia, principalmente pela forma como os sistemas funcionam nos bastidores. Sempre fui curioso em entender o que está por trás das aplicações, explorando desde segurança até inteligência artificial.
 
