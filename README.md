@@ -1,11 +1,9 @@
-# Olá! Eu sou Tiago Facimoto👋
+#  Tiago Facimoto
 
 ## Sobre mim
-🎯 **Foco atual:** Desemvolvimento Back-End
+🎯 **Foco atual:** Desemvolvimento FullStack
+💼 **Trabalhando em:**  Estudos
 
-💼 **Trabalhando em:** No Momento apenas Estudando   
-
-🌱 **Aprendendo:** FastAPI  
 
 ## 🚀 Minhas Tecnologias
 
@@ -37,38 +35,19 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLMIRA&layout=compact&hide_border=true&title_color=FF0000&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-## 🔥 Contribuições
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GLMIRA&bg_color=0d1117&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true)
-
-## 🏆 Troféus GitHub
-![trophy](https://github-profile-trophy.vercel.app/?username=GLMIRA&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📈 Estatísticas de Atividade
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GLMIRA&theme=dark&hide_border=true&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000)
 
-## 🎯 Projetos em Destaque
-
-### 🌟 [Sistema De Recrutamento]((https://github.com/GLMIRA/sistema_recrutamento))
-Breve descrição do que o projeto faz
-- **Tech Stack:** Python, Django, SQLitte3
-- **Features:** Login, CRUD, API REST
-
-## 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lima-mira/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_gabriel_mira/)
 
 ## ⚡ Curiosidades sobre mim
-- 🎮 Gamer nas horas vagas
-- ☕ Viciado em café
-- 📚 Sempre aprendendo algo novo
-- 🎵 Música ajuda na concentração
+
 
 ---
 <div align="center">
   
   ![Visitor Count](https://profile-counter.glitch.me/GLMIRA/count.svg)
   
-  *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
   
 </div>
