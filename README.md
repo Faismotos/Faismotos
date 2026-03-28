@@ -40,13 +40,21 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GLMIRA&theme=dark&hide_border=true&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000)
 
 
-## ⚡ Curiosidades sobre mim
+ ## 🚀 Sobre mim
+
+Sou estudante de Engenharia da Computação na UTFPR e tenho uma grande paixão por tecnologia, principalmente pela forma como os sistemas funcionam nos bastidores. Sempre fui curioso em entender o que está por trás das aplicações, explorando desde segurança até inteligência artificial.
+
+Gosto de enfrentar desafios que me fazem pensar, testar e descobrir novas soluções. Resolver problemas e encontrar diferentes caminhos para chegar a uma resposta é o que mais me motiva dentro da área de tecnologia.
+
+Tenho um forte interesse em áreas como cibersegurança e IA, buscando constantemente evoluir e aprender mais sobre como a tecnologia pode ser utilizada de forma inteligente e segura.
+
+Estou em busca da minha primeira oportunidade de estágio, onde eu possa crescer profissionalmente, contribuir com projetos e continuar desenvolvendo minha paixão por tecnologia no dia a dia.
+
 
 
 ---
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/GLMIRA/count.svg)
   
 
   
